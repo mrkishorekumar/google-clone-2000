@@ -1,0 +1,25 @@
+body{
+	text-align: center;
+	font-family: sans-serif;
+}
+img{
+	display: block;
+	padding-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.green a{
+	color: green;
+	font-weight: bold;
+}
+.green{
+	color: green;
+	font-style: italic;
+}
+#red{
+	color: red;
+	font-family: sans-serif;
+}
+.space{
+	padding-top: 25px;
+}
